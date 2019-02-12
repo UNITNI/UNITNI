@@ -11,3 +11,4 @@ Commit 는 다음과 같은 규칙을 따르도록 한다.
 1. 운영체제 : Window 10
 2. 언어 : JavaScript
 3. 프레임워크 : Vue + Node
+4. 어플리케이션 빌드 : VueNative
